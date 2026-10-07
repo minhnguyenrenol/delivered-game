@@ -1,0 +1,532 @@
+{
+ "cards.0.follow_ups.0": {
+  "sample": "It shouldn't have said that, and I've corrected it. Fourteen is my total. About four years as a developer, then ten in product design. Banking is only the last two and a half years at NAB, plus my time at LSEG in financial markets, where I designed tools for traders. Before LSEG I was at Hearti Lab, designing CYBERhythm, a cloud-security dashboard. So the honest label is a product designer with a security and finance focus. That mix fits a secure messenger better than a banking CV suggests.",
+  "note_en": "It owns the mistake in the first sentence and gives the correct split, so there's nothing left for them to dig into.",
+  "note_vi": "Câu trả lời nhận lỗi ngay câu đầu và đưa ra cách chia năm đúng, nên người phỏng vấn không còn gì để đào thêm."
+ },
+ "cards.0.follow_ups.1": {
+  "sample": "For me, trust means the product does what it says and shows you what it's doing. And if something goes wrong, it fails safely. In money and messaging, the user can't check what's happening underneath, so the design has to earn it. On the stablecoin wallet I'm designing, signing up is light, but sending money slows you down. The amount and the recipient are the first things you see, with a clear line if it can't be undone. At Qualgo, I'd use the same idea when a stranger's message asks for money.",
+  "note_en": "It gives a one-line definition, then proves it with a real screen, so \"trust\" stops sounding like a buzzword.",
+  "note_vi": "Câu trả lời định nghĩa niềm tin trong một câu rồi chứng minh bằng một màn hình thật, nên chữ \"trust\" không còn nghe như từ khóa suông."
+ },
+ "cards.1.follow_ups.0": {
+  "sample": "Less than I'd like, because you've kept it quiet. Here's what I know. You're a cybersecurity R&D centre building AI-powered secure communication and transactions for a mass audience. You have consumer security, business security and community platforms. From your hiring, iOS and Android leads, Go engineers and agentic AI roles, I'm guessing a mobile-first messenger with payments inside it. What I'd ask is whether it's live yet, and whether the first market is Vietnam or the Middle East. If I've got any of that wrong, please correct me now.",
+  "note_en": "It uses the short Know, Infer, Ask version from Q4 and invites correction, so you never make up a product you haven't seen.",
+  "note_vi": "Câu trả lời dùng bản ngắn Biết, Đoán, Hỏi của Q4 và mời họ sửa, nên bạn không bịa ra một sản phẩm mình chưa thấy."
+ },
+ "cards.1.follow_ups.1": {
+  "sample": "I had a live delivery at NAB that I'd committed to, the fulfilment redesign in the corporate bank. I don't leave things half-shipped. A client request used to take about a day to fulfil, and I wanted to see the new flow go live before I talked to anyone. It's live now and takes about five minutes. So the timing is right this time. And that habit is what you'd get from me too. If I start something at Qualgo, I'll finish it properly before I move on.",
+  "note_en": "Saying no turns into proof of reliability, backed by a live result instead of a promise.",
+  "note_vi": "Lời từ chối trước đây trở thành bằng chứng bạn đáng tin, có kết quả đã live đi kèm chứ không chỉ là lời hứa."
+ },
+ "cards.2.follow_ups.0": {
+  "sample": "Fair question. Early in my career I moved for scope, and each move was a step up in responsibility. NAB is my longest recent stretch, and I stayed to see real work through. The fulfilment flow I led is live, and I'm now leading RegShield, an MVP that's still in flight. Next, I want a place to build something over years, a product and a team, rather than one project. That's partly why I said no to you twice before saying yes. I wanted to be sure I'd stay.",
+  "note_en": "It accepts the pattern calmly and points to NAB and the two earlier no's as evidence, without sounding defensive.",
+  "note_vi": "Câu trả lời bình thản thừa nhận lịch sử chuyển việc và dùng NAB cùng hai lần từ chối làm bằng chứng, không hề phòng thủ."
+ },
+ "cards.2.follow_ups.1": {
+  "sample": "Not yet. I'll tell my manager when there's something real to tell, and I'll give full notice. I'm leading RegShield, an AI-first regulatory MVP that's still in flight, so the handover matters to me. Before I go, I'd want the research and the open decisions written down, so the team isn't guessing after I leave. That's how I'd want someone to leave my own team. And it's how I'd treat Qualgo too, if I ever moved on one day.",
+  "note_en": "It shows discretion and care for the current team, which tells them how you'd treat them later.",
+  "note_vi": "Câu trả lời cho thấy bạn kín đáo và có trách nhiệm với đội hiện tại, điều đó cho họ biết sau này bạn sẽ đối xử với họ ra sao."
+ },
+ "cards.3.follow_ups.0": {
+  "sample": "I'd spend the first month learning before changing much. First, I'd get answers to the questions I just asked: is it live, which market comes first, and what the AI is there to do. Then I'd use the product every day and read what users complain about. My fulfilment work at NAB started the same way. I shadowed the people doing the job and mapped every hand-off on one wall before I designed anything. By the end of the month, I'd bring back a short list of trust problems to fix first.",
+  "note_en": "It gives a calm, practical first month tied to a method you've already used; the full plan lives in Q57.",
+  "note_vi": "Câu trả lời đưa ra một tháng đầu thực tế, dựa trên cách bạn đã làm ở NAB; kế hoạch đầy đủ nằm ở Q57."
+ },
+ "cards.3.follow_ups.1": {
+  "sample": "Honestly, I'd want to know what it signals to a fifty-year-old in Cần Thơ before I'd have an opinion. My taste matters less than theirs. When I benchmarked about eighteen apps for the stablecoin wallet, I looked at how safe people feel, which isn't always how safe a product is. A name and a logo are part of that feeling. So I'd test it with real people outside the big cities, especially people who've never thought about security. Then I could give you an opinion worth having.",
+  "note_en": "It avoids a risky personal opinion about their brand and shows you'd judge it through their real users.",
+  "note_vi": "Câu trả lời tránh đưa ý kiến cá nhân dễ mất điểm về thương hiệu của họ, và cho thấy bạn sẽ đánh giá qua người dùng thật."
+ },
+ "cards.4.follow_ups.0": {
+  "sample": "You're right, and I said that too fast. The patterns are learnable. The judgement on edge cases, like group dynamics or sync, comes from scale I haven't had. What I do have is years of making security clear under pressure. At Hearti Lab, CYBERhythm operators were drowning in alerts, and moving to triage cut their errors by half. That's the part I'd bring. For the rest, I'd pair with a senior designer who's lived chat at scale, and spend my first month in your support tickets.",
+  "note_en": "Agreeing quickly under pressure looks confident, and the CYBERhythm result keeps the gap in proportion.",
+  "note_vi": "Đồng ý nhanh khi bị ép cho thấy sự tự tin, còn kết quả CYBERhythm giúp khoảng trống không bị phóng đại."
+ },
+ "cards.4.follow_ups.1": {
+  "sample": "Sure. It's four screens, and I'll talk about one decision rather than all of it. It's a message-request flow with scam warnings, sketched after I tore down Zalo, Telegram and Signal. The decision I'd like your view on is [the one decision in your concept, and why you made it]. It comes from the same thinking as the stablecoin wallet, where security sits at the moment of value, not at the front door. It's rough, so please be direct. I'd rather hear what's wrong now than after I join.",
+  "note_en": "One decision, explained well, beats a tour of every screen; only show this once the concept really exists.",
+  "note_vi": "Một quyết định được giải thích rõ tốt hơn việc lướt qua mọi màn hình; chỉ trình bày khi concept đã thật sự làm xong."
+ },
+ "cards.5.follow_ups.0": {
+  "sample": "Both were project-shaped roles. I joined for a defined scope, and I moved when that scope was delivered. Looking back, I'd have stayed longer at one of them. I learn the most in year two, when you see what your work does over time. NAB taught me that. The fulfilment flow took time to get live, and seeing it go from about a day to about five minutes was worth the wait. That's the kind of time I want to put into Qualgo.",
+  "note_en": "Admitting one thing you'd do differently makes the rest believable, and the NAB example shows you've already changed.",
+  "note_vi": "Thừa nhận một điều bạn sẽ làm khác khiến phần còn lại đáng tin hơn, và ví dụ NAB cho thấy bạn đã thay đổi."
+ },
+ "cards.5.follow_ups.1": {
+  "sample": "I was self-taught. After six years in design I could do the work, but I wanted the research methods and the vocabulary to lead designers, not just do design. I did the UX master's at MICA while working. Before it, at Hearti Lab, I'd hired and led a team of three, and the master's helped me explain my choices to them and to stakeholders. Since then I've used it in mentoring, with over 250 sessions on ADPList. For a lead role at Qualgo, that's the part I'd use every day.",
+  "note_en": "It links the degree to leading people, which is what a Lead role needs, instead of sounding like you were filling time.",
+  "note_vi": "Câu trả lời nối tấm bằng thạc sĩ với việc dẫn dắt con người, đúng thứ vai trò Lead cần, thay vì nghe như bạn đi học cho có."
+ },
+ "cards.6.follow_ups.0": {
+  "sample": "Yes, when the product needs it. At Hearti Lab I hired and led a team of three while we built CYBERhythm. I haven't run a team of ten yet, and I'd want to grow into that with the product, not ahead of it. I've also coached a lot of designers one to one, over 250 sessions on ADPList and more than 50 mentees. At Qualgo I'd start by raising the bar with the team you have, then hire when the roadmap shows a real gap.",
+  "note_en": "It keeps the real team size of three and shows ambition without asking for a big team on day one.",
+  "note_vi": "Câu trả lời giữ đúng quy mô đội 3 người và vẫn thể hiện tham vọng, không đòi một đội lớn ngay từ đầu."
+ },
+ "cards.6.follow_ups.1": {
+  "sample": "If I stopped learning, or if we started shipping things we wouldn't use ourselves. The second one matters most to me. On the NAB fulfilment flow, the hardest call was keeping a human on a check with real regulatory risk, when the obvious answer was to automate everything. I'd hold Qualgo to the same standard. If I wouldn't give the product to my own parents, I'd raise it early and clearly. Leaving would come a long way after that, and only if nobody listened.",
+  "note_en": "It names values instead of money or titles, and the NAB example proves you act on them.",
+  "note_vi": "Câu trả lời nói về giá trị chứ không phải tiền hay chức danh, và ví dụ NAB chứng minh bạn làm đúng như vậy."
+ },
+ "cards.7.follow_ups.0": {
+  "sample": "Engineering built the automation. I defined where it stopped, designed the review experience, and facilitated the agreement between the teams. To find that line, I shadowed the people doing the work and mapped every hand-off on one wall. Some checks carried real regulatory risk, so a human still reviews those. Without that boundary, they'd have automated a regulatory check that needed a human. At Qualgo, scam protection needs the same call: what the system blocks quietly, and when you show the user.",
+  "note_en": "It gives engineering the credit for building and keeps the boundary decision clearly yours.",
+  "note_vi": "Câu trả lời ghi công engineering phần xây dựng và giữ rõ quyết định về ranh giới là của bạn."
+ },
+ "cards.7.follow_ups.1": {
+  "sample": "I'd have brought operations in a sprint earlier. We found two edge cases late, [what the two edge cases were], and the operations team would have told us on day one. That cost us [the time or rework it cost]. The flow still went live, and it now takes about five minutes instead of a day. But since then, I bring the people who do the work into the first week of design reviews. At Qualgo, that would mean support and trust and safety staff from the start.",
+  "note_en": "A small, real regret with a habit you changed sounds honest; fill in the true edge cases before the interview.",
+  "note_vi": "Một điều tiếc nhỏ và có thật kèm thói quen mới nghe rất trung thực; hãy điền hai edge case thật trước buổi phỏng vấn."
+ },
+ "cards.7.follow_ups.2": {
+  "sample": "I started with the wall where I'd mapped every hand-off, so each team could see how their step slowed down the next one. That made it everyone's problem instead of my opinion. Then I ran workshops where all [number of teams] teams agreed on one definition of done, before anyone argued about screens. After that, design decisions had something to point back to. I'd do the same at Qualgo, where security and growth teams will often pull in different directions. Agree the goal first, then design.",
+  "note_en": "It shows a repeatable method for getting agreement; confirm the real number of teams first, and the longer story is in Q48.",
+  "note_vi": "Câu trả lời cho thấy một cách làm lặp lại được để mọi người đồng thuận; xác nhận số đội thật trước, câu chuyện dài hơn nằm ở Q48."
+ },
+ "cards.8.follow_ups.0": {
+  "sample": "It's freelance work, outside my NAB hours [and declared to NAB: say this only if it's true]. If I join, I'd wrap it up before I start. A lead role here deserves my full attention. I took it on because I wanted to be closer to consumers again. It's an early-stage, mobile-responsive web app for an overseas fintech client, and its whole problem is trust with first-time users. That's very close to what you're building, which is a big part of why I'm talking to you.",
+  "note_en": "It answers the loyalty worry directly and never claims the work is declared unless that's confirmed.",
+  "note_vi": "Câu trả lời xử lý thẳng mối lo về sự cam kết và không bao giờ nói đã khai báo nếu chưa xác nhận."
+ },
+ "cards.8.follow_ups.1": {
+  "sample": "Speed. We wanted to test with real users fast, with one codebase, while the product was still finding its shape. I built the front end in code with AI-assisted tools, so people tested the real thing, not a clickable prototype. That helped with the trust questions, because the fear of losing money shows up more when the screen feels real. The native app is the next step, planned in React Native, but it isn't built yet. At Qualgo, with a mobile-first product, I'd go native much earlier.",
+  "note_en": "It gives a product reason for the choice and is clear that the native app is planned, not shipped.",
+  "note_vi": "Câu trả lời đưa ra lý do sản phẩm cho lựa chọn này và nói rõ native app mới là kế hoạch, chưa ra mắt."
+ },
+ "cards.9.follow_ups.0": {
+  "sample": "The secondary button competes too much. I'd drop it to a text link. On a send-money screen, the eye should land on the amount first, then the recipient and their verified status, then one clear action. Right now the second button pulls attention away from the line that says this can't be undone, and that line matters more. I learned that discipline on the LSEG chart palette, where every colour had to have a reason. In a Qualgo chat, a scam warning needs the same room.",
+  "note_en": "Having a ready critique of your own screen shows craft and confidence at the pixel level Vy cares about.",
+  "note_vi": "Có sẵn một lời tự phê bình màn hình của mình cho thấy tay nghề và sự tự tin ở mức pixel mà Vy quan tâm."
+ },
+ "cards.9.follow_ups.1": {
+  "sample": "I follow [first product or designer] closely, because [one specific thing you noticed in their visual work]. And [second product or designer], for [one specific detail, for example how they handle numbers or type]. What I take from both is close to how I built the 52-colour palette at LSEG. Every colour had to pass contrast in both themes, so people with colour-vision deficiency could still tell twelve data series apart. A visual choice has to do a job, and I should be able to say what it is.",
+  "note_en": "Specific names with a specific reason beat a list of famous brands; pick two you really follow.",
+  "note_vi": "Tên cụ thể kèm lý do cụ thể tốt hơn một danh sách thương hiệu nổi tiếng; hãy chọn hai cái bạn thật sự theo dõi."
+ },
+ "cards.10.follow_ups.0": {
+  "sample": "It was small, about [N] people. So I treat it as directional, not statistical. We ran the same tasks before and after the redesign, which shows the direction clearly but doesn't prove the exact size of the drop. I'd rather say that than oversell it. It's the same way I talk about RegShield, where the sixty percent AI figure is my own estimate, and I say so. At Qualgo, if a number like this drove a big decision, I'd want a bigger test first.",
+  "note_en": "Saying the sample is small before they do builds trust; if the real number is large, just say it plainly.",
+  "note_vi": "Tự nói mẫu nhỏ trước khi bị hỏi tạo niềm tin; nếu con số thật lớn, cứ nói thẳng."
+ },
+ "cards.10.follow_ups.1": {
+  "sample": "It's the top tier of NAB's experience-quality scale, which is called ExQual [confirm it's the top tier]. It's NAB's internal benchmark, based on validation with users, and we scored 4.57 out of 5. Because it's internal, I wouldn't compare it with outside scores. I'd treat it as one signal next to the friction number, which I define separately. At LSEG, the chart palette scored 4.6 out of 5 on usability in testing. At Qualgo, I'd agree on one quality score like this early, so we all mean the same thing.",
+  "note_en": "It explains an internal label in plain words and doesn't oversell it; confirm the tier before you say it.",
+  "note_vi": "Câu trả lời giải thích một nhãn nội bộ bằng lời đơn giản và không thổi phồng; xác nhận hạng Platinum trước khi nói."
+ },
+ "cards.10.follow_ups.2": {
+  "sample": "No. It's a before-and-after on the same tasks, so I'd present it as strong evidence, not proof. Other things changed at the same time, like the engineering work that removed the re-keying. That's why I only claim part of it for design, mainly the definition of the flow and which steps existed at all. If I ran it again, I'd keep the same users and the same tasks, and test the old and new flows in the same week. At Qualgo, I'd plan the measurement before the redesign.",
+  "note_en": "A plain \"no\" with the limits named sounds more expert than defending a weak method.",
+  "note_vi": "Một chữ \"không\" rõ ràng kèm giới hạn của cách đo nghe chuyên nghiệp hơn việc bảo vệ một phương pháp yếu."
+ },
+ "cards.11.follow_ups.0": {
+  "sample": "They'd have automated the whole thing, including a check that needed a human, and probably found out in an audit. Engineering would still have built something that worked, and it would be fast. What would be missing is the line between what the system decides and what a person reviews. I found that line by shadowing the people doing the work, and it was the part I owned. At Qualgo, it's the same line between what the AI blocks quietly and what the user gets to decide.",
+  "note_en": "The what-if answer makes your part concrete without taking credit from engineering.",
+  "note_vi": "Câu trả lời \"nếu tôi không có mặt\" làm rõ phần của bạn mà không lấy công của engineering."
+ },
+ "cards.12.follow_ups.0": {
+  "sample": "Because nobody told me no, and I didn't ask the right person. That's the lesson. [Who asked for the feature] asked for it, and I designed for them. I didn't spend time with [the people who actually used it every day]. On [the next project], I [what you did differently, for example: spent the first weeks with the real users first]. Now I ask the same question in every kick-off: who opens this on a bad day? At Qualgo, that person is probably someone scared, in the middle of a scam.",
+  "note_en": "It takes the blame without excuses; fill the brackets with your real failure story, not the example frame.",
+  "note_vi": "Câu trả lời nhận trách nhiệm không bào chữa; hãy điền câu chuyện thất bại thật của bạn vào ngoặc vuông, không dùng khung ví dụ."
+ },
+ "cards.12.follow_ups.1": {
+  "sample": "Yes. At [where], I gave feedback to [a team member] too late. I saw [the problem] early, but I waited because [why you waited]. By the time I said something, [what it cost them or the project]. That was my mistake, not theirs. Now I [the habit you changed, for example: give feedback in the same week, in private]. It matters even more as a lead. I'd rather have one awkward talk early than a bad surprise later. At Qualgo, I'd set up regular one-to-ones with every designer from week one.",
+  "note_en": "A people failure that ends in a habit you still keep shows you can lead; use a true story only.",
+  "note_vi": "Một thất bại về con người kết thúc bằng thói quen bạn vẫn giữ cho thấy bạn biết dẫn dắt; chỉ dùng câu chuyện thật."
+ },
+ "cards.13.follow_ups.0": {
+  "sample": "Yes, I had to understand them to design the triage. The main alerts were [first alert type, for example wrongly set access permissions] and [second alert type, for example unusual logins]. For each one, I worked out what the operator had to do next, because that decided whether it needed them now, could wait, or was noise. I'm not a security engineer, but I knew enough to ask the engineers good questions. At Qualgo, I'd learn each scam type well enough to design the moment it appears.",
+  "note_en": "It names real alert types and admits you're a designer, not an engineer, which Hằng will respect.",
+  "note_vi": "Câu trả lời nêu loại cảnh báo thật và thừa nhận bạn là designer chứ không phải kỹ sư, điều Hằng sẽ tôn trọng."
+ },
+ "cards.13.follow_ups.1": {
+  "sample": "I tested with [how many] operators, using [the method, for example the same tasks on the old dashboard and the new one]. We compared [the baseline] with the new triage view, and that's where the fifty percent drop in errors and the ten percent speed gain came from. I'd describe it as [measured or estimated], and I'm happy to walk through the setup. If I did it again, I'd test the scary states too, not just the happy path, because that's where people panic. I'd test scam warnings at Qualgo the same way.",
+  "note_en": "The numbers are solid but the baseline isn't confirmed yet, so the brackets stop you from inventing the method.",
+  "note_vi": "Các con số đã chắc nhưng baseline chưa xác nhận, nên phần trong ngoặc vuông giúp bạn không bịa ra cách test."
+ },
+ "cards.14.follow_ups.0": {
+  "sample": "Shared group is weak context, not trust. So I wouldn't show it as mutual. I'd show it as \"You're both in X, 3,000 members.\" Size matters. A small family group means something. A group with three thousand strangers means almost nothing, and a scammer can join it in a minute. At Hearti Lab I learned that if a signal means different things in different places, people stop reading it. On CYBERhythm, \"critical\" had to look identical across two products. Here, \"mutual\" should mean one thing only.",
+  "note_en": "It treats the scammer case as a design detail with a clear rule, backed by a real lesson from CYBERhythm.",
+  "note_vi": "Câu trả lời xử lý tình huống kẻ lừa đảo bằng một quy tắc thiết kế rõ ràng, có bài học thật từ CYBERhythm đi kèm."
+ },
+ "cards.14.follow_ups.1": {
+  "sample": "That's why medium risk is a note, not a block. A real buyer still gets through, and the user just sees a calm line of context. On the sender side, if you get flagged often, you get a nudge to verify your account, not a silent ban. I made a similar call at NAB, where a human reviews only the cases where judgement matters. Here I'd watch the report rate and the accept rate together, so we can see if the notes are set too strict or too loose.",
+  "note_en": "It shows you've already designed for false positives and know which numbers would tell you it's wrong.",
+  "note_vi": "Câu trả lời cho thấy bạn đã tính đến báo động nhầm và biết con số nào sẽ cho biết thiết kế đang sai."
+ },
+ "cards.14.follow_ups.2": {
+  "sample": "My understanding is that it has to run on the device, after the message is decrypted, so the content never leaves the phone. Some signals don't need the content at all, like account age or whether you share any contacts. I'd want your engineers to tell me what's really possible. On RegShield, the AI-first MVP I'm leading at NAB, I've rebuilt my design process around AI, so I'm used to asking what the model really does. Then my job is to tell the user, in plain words, what is checked and where.",
+  "note_en": "It stays humble on the engineering and clear on design's job; the deeper answer is in Q53.",
+  "note_vi": "Câu trả lời khiêm tốn về phần kỹ thuật và rõ ràng về việc của design; câu trả lời sâu hơn nằm ở Q53."
+ },
+ "cards.15.follow_ups.0": {
+  "sample": "Then we earn contacts, we don't take them. I'd ask at the moment someone searches for a friend, because that's when the reason is obvious. Invite links and QR codes help too, and they feel safer. I'd A/B test the timing, with a guardrail on reports, and watch time to first message. On the stablecoin wallet I made a similar choice. Signing up is light, and we ask for more only at the moment of value. For a trust-first brand competing with Zalo, that's part of the pitch.",
+  "note_en": "It answers the growth worry with a testable plan and a guardrail instead of choosing safety over growth.",
+  "note_vi": "Câu trả lời trả lời mối lo tăng trưởng bằng một kế hoạch kiểm chứng được có guardrail, thay vì bỏ tăng trưởng để chọn an toàn."
+ },
+ "cards.16.follow_ups.0": {
+  "sample": "No. In Vietnam, Android is the majority. If anything, a mid-range Android phone is my default test device. That's also where the security flows have to work best, because most of your users will see them there first. On the stablecoin wallet, I ran two design systems on one shared structure, with shared tokens and different skins. I'd do the same here with one component spec and platform variants, so Android never ends up as a copy of iOS.",
+  "note_en": "It shows you know the Vietnamese market and backs it with how you've already built a design system.",
+  "note_vi": "Câu trả lời cho thấy bạn hiểu thị trường Việt Nam và có cách bạn từng xây design system làm bằng chứng."
+ },
+ "cards.17.follow_ups.0": {
+  "sample": "Not at first. One app, with a separate space for communities. The daily habit is chats, and a second app means a second download and a second place to check. I'd split only if the habits really diverge, and I'd look for that in a card sort and a tree test with about twenty people before we build. My MICA capstone was a mentorship community platform, which is the closest community work I've done. At Qualgo, I'd keep Chats as the home tab, so a busy community never buries your mum's message.",
+  "note_en": "A clear \"not yet\" with a test that would change your mind sounds practical, and it's honest about your community experience.",
+  "note_vi": "Một câu \"chưa\" rõ ràng kèm bài test có thể khiến bạn đổi ý nghe rất thực tế, và trung thực về kinh nghiệm cộng đồng của bạn."
+ },
+ "cards.18.follow_ups.0": {
+  "sample": "I'd send one push, only to people who are likely to use the feature, with a frequency cap. If marketing wants more reach, the rest goes in-app, where people see it when they open the app anyway. I learned this on CYBERhythm at Hearti Lab. When too many alerts look urgent, people stop reading them. In a chat app, push is borrowed attention. If we spend it on announcements, people mute us, and then they miss a message from their mum. So I'd agree the cap with marketing before the launch, not after.",
+  "note_en": "It says yes to marketing but keeps push for people, so you sound like a partner and still protect the user.",
+  "note_vi": "Câu này đồng ý với marketing nhưng vẫn giữ push cho con người, nên bạn vừa là người hợp tác vừa bảo vệ người dùng."
+ },
+ "cards.19.follow_ups.0": {
+  "sample": "That's true for habit. People stay because everything is already there. But we're a new entrant, and copying Zalo's density won't give anyone a reason to switch. Calm can. We can add depth later, one feature at a time. We can't add calm later, once the home screen is full. I saw a version of this on the stablecoin wallet. When we benchmarked about eighteen apps, the best ones kept entry light. For Qualgo, I'd keep people you know at the top and put everything else one step away.",
+  "note_en": "You agree with the true part first, then use your own research to explain why a newcomer should choose differently.",
+  "note_vi": "Bạn đồng ý với phần đúng trước, rồi dùng nghiên cứu của chính mình để giải thích vì sao người đến sau nên chọn khác."
+ },
+ "cards.20.follow_ups.0": {
+  "sample": "I'd pick a key change. In the chat, I'd show a quiet inline note: 'Lan's safety code changed. This usually means a new phone.' 'Verify' is there as an option, not a pop-up. Most of the time it really is a new phone, so a big alarm would scare people for nothing. My four years as a developer help here, because I know how often device states change. For each edge case I answer three questions: what the user sees, what they can do, and what we tell the other person. I'd write those answers into the ticket for engineering.",
+  "note_en": "It designs one real case on the spot, with actual copy, and shows engineers a method they can reuse.",
+  "note_vi": "Bạn thiết kế ngay một trường hợp thật, có câu chữ cụ thể, và cho kỹ sư thấy một cách làm họ có thể dùng lại."
+ },
+ "cards.21.follow_ups.0": {
+  "sample": "The main new ones are focus not obscured, target size minimum, dragging alternatives, consistent help, redundant entry, and accessible authentication. For a security product, accessible authentication matters most. It means we don't make people memorise or retype codes, and we allow paste, password managers and passkeys. At LSEG I built a fifty-two-colour accessible palette for financial charts, and it tested at a hundred percent task completion. I've also put accessibility checks into a design system, so it's the default. For Qualgo, I'd start with login and verification, because older users on cheap phones hit those first.",
+  "note_en": "Naming the real criteria proves you know the standard, and the LSEG palette gives a real result behind it.",
+  "note_vi": "Gọi đúng tên các tiêu chí chứng minh bạn biết chuẩn thật, và bảng màu ở LSEG cho thấy một kết quả có thật phía sau."
+ },
+ "cards.22.follow_ups.0": {
+  "sample": "I put duration and easing in the design system as tokens, so engineers pick a named value instead of guessing. Most motion is a hundred to three hundred milliseconds, so a few tokens cover it. Where the motion is complex, I add a short video, plus Lottie or code. On the stablecoin wallet, two design systems share one token structure, so a change in one place reaches both brands. I'd set up motion the same way at Qualgo. I'd also cover Reduce Motion in the handoff, so engineers know what to show when someone turns animation off.",
+  "note_en": "It turns motion into something engineers can build and check, which is what the Mobile Eng interviewer wants to hear.",
+  "note_vi": "Câu trả lời biến motion thành thứ kỹ sư có thể làm và kiểm tra được, đúng điều người phỏng vấn Mobile Eng muốn nghe."
+ },
+ "cards.23.follow_ups.0": {
+  "sample": "The first time someone's message is end-to-end encrypted. I'd show a small, calm animation where the message folds into an envelope that only the recipient can open. It plays once, never again. That moment is ours, so the brand can lead there. Everyday actions, like going back or sharing, should follow the platform, because that's muscle memory. On the wallet project, two brands share the same components through one token structure. It's the same idea. The common parts stay standard, and the brand shows where it counts. For Qualgo, I'd choose those few moments with marketing early.",
+  "note_en": "One specific moment that plays once shows you know where brand belongs and where convention should win.",
+  "note_vi": "Một khoảnh khắc cụ thể chỉ xuất hiện một lần cho thấy bạn biết chỗ nào dành cho thương hiệu và chỗ nào nên theo quy ước."
+ },
+ "cards.24.follow_ups.0": {
+  "sample": "In banking, yes. Auditability sometimes means we keep more than a user would like, because the regulator requires it. I couldn't change that rule. My job was to be honest in the UI about what's kept and why, rather than pretend. RegShield shows the same thinking. It's an MVP, and every AI suggestion and every human change goes into an audit trail. That's a lot of data kept, so the screen shows it openly. At Qualgo, I'd want the same honesty about anything the law makes us keep.",
+  "note_en": "It admits a real limit instead of claiming privacy always wins, and shows what design can still do inside that limit.",
+  "note_vi": "Bạn thừa nhận một giới hạn có thật thay vì nói quyền riêng tư luôn thắng, và cho thấy thiết kế vẫn làm được gì trong giới hạn đó."
+ },
+ "cards.24.follow_ups.1": {
+  "sample": "I'd say yes to the goal and negotiate the method. Chat without your friends is empty. So I'd ask at the moment someone taps 'Find friends', with a one-line reason and a real 'Not now' that doesn't break the app. I'd match on hashed numbers and keep as little as we can, and I'd get security to confirm the right technique. On the stablecoin wallet, we didn't ask for anything until the moment it was needed, and I'd use the same rule here. Then I'd test it with growth, looking at grant rate against uninstalls.",
+  "note_en": "This is the short version of your Q29 answer, and it avoids saying a flat no or a flat sure.",
+  "note_vi": "Đây là bản ngắn của câu trả lời Q29, và tránh được cả câu \"không\" thẳng thừng lẫn câu \"được thôi\" không có quan điểm."
+ },
+ "cards.25.follow_ups.0": {
+  "sample": "With encryption in transit, the message is protected on the way, but the server can read it when it arrives. With end-to-end, only the two devices hold the keys, so the server passes on something it can't open. Most apps have the first. Fewer have the second by default. I'm a designer, not a cryptographer, but my four years as a developer help me ask engineers the right questions. For a sixty-year-old user, I wouldn't explain any of this. I'd use the sealed envelope idea, and say only what it protects.",
+  "note_en": "It explains the difference in plain words, stays modest about the technical side, and links back to your envelope idea.",
+  "note_vi": "Bạn giải thích sự khác biệt bằng lời đơn giản, khiêm tốn về mặt kỹ thuật, và nối lại với ý phong bì niêm phong."
+ },
+ "cards.25.follow_ups.1": {
+  "sample": "I wouldn't rely on our own copy. Trust comes from third parties. So I'd want independent audits, and a public security page in plain language. For people who really care, there's the safety-number feature, so they can check for themselves. I've seen how checking beats trusting in regulated work. On RegShield, we put every AI suggestion and every human change in an audit trail, so people can check instead of taking our word. For Qualgo, I'd also keep the copy honest. If we say '100% secure' once, sceptical users stop believing the rest.",
+  "note_en": "It puts proof outside the company and warns against over-promising, which security people respect.",
+  "note_vi": "Câu trả lời đặt bằng chứng ở bên ngoài công ty và cảnh báo việc hứa quá, điều mà người làm bảo mật rất tôn trọng."
+ },
+ "cards.26.follow_ups.0": {
+  "sample": "First I'd ask what threat it's for. If it's account takeover, a passkey or a device-bound check might give more security with less friction. I'd bring data on drop-off at login and propose a test, not an argument. At NAB, in the fulfilment flow, engineering automated the low-risk checks, and design kept a human review only where the risk was real. That's the same idea. Put the strongest check where the risk is. For Qualgo, I'd sit with security and map each check to a threat, because we want the same thing.",
+  "note_en": "Asking about the threat first, and pointing to the live NAB flow, makes you a partner to security, not an opponent.",
+  "note_vi": "Hỏi về mối đe dọa trước, kèm ví dụ quy trình đã chạy thật ở NAB, khiến bạn thành đồng đội của bên bảo mật chứ không phải người chống lại họ."
+ },
+ "cards.26.follow_ups.1": {
+  "sample": "Yes, the irreversible send confirmation on the stablecoin wallet. We made that screen slower on purpose. The amount, the recipient and 'this can't be undone' are the focus, and nothing else competes with them. We accepted slower completion, because a mistaken transfer can't be undone. It's still an early-stage web app, so I can't give you completion numbers yet. But I'm comfortable with that choice. In a chat app, I'd treat sending money or sharing a one-time code the same way.",
+  "note_en": "A clear yes with a real decision and its cost, plus honesty that there are no numbers yet, keeps you believable.",
+  "note_vi": "Một câu \"có\" rõ ràng, kèm quyết định thật và cái giá của nó, cộng với sự trung thực rằng chưa có số liệu, giúp bạn đáng tin."
+ },
+ "cards.27.follow_ups.0": {
+  "sample": "Then the medium tier must never block. I'd use quiet notes that people can dismiss with one tap, and feed those dismissals back into the model. The high tier only fires on combinations, like a new contact plus a link plus a request for an OTP, never on a single signal. On CYBERhythm at Hearti Lab, the alert triage work showed me that people stop reading alerts when too many are wrong. With 10% false positives, every loud warning spends trust. At Qualgo, I'd agree the tiers with the AI team before we design screens.",
+  "note_en": "It accepts the model's limits and changes the design to fit them, which is the warning budget idea in action.",
+  "note_vi": "Bạn chấp nhận giới hạn của mô hình và thay đổi thiết kế cho phù hợp, đúng là ý \"warning budget\" được áp dụng thật."
+ },
+ "cards.27.follow_ups.1": {
+  "sample": "I'd look at what happens after. If the same chat gets reported later, or the person blocks that contact within 24 hours, the warning was probably right and they dismissed it anyway. It's a lagging signal, but it's honest. It's the same thinking I'd bring from CYBERhythm at Hearti Lab. You judge an alert by what people do next. For Qualgo, I'd put that number next to the warning count on the team dashboard, so nobody celebrates showing more warnings. Then the AI team can use the same data to tune the model.",
+  "note_en": "It admits the measure is slow instead of pretending to have a perfect one, and keeps the focus on outcomes.",
+  "note_vi": "Bạn thừa nhận cách đo này chậm thay vì giả vờ có cách đo hoàn hảo, và vẫn giữ trọng tâm vào kết quả."
+ },
+ "cards.27.follow_ups.2": {
+  "sample": "Only for links and accounts we already know are bad. Even then, the person sees what we blocked and why, and they can appeal. Never silently. At NAB, in the fulfilment flow, engineering automated the clear cases and design defined where a human still reviews. It's live now, and it took the work from about a day to about five minutes. I'd draw the same line at Qualgo. Automate what's certain, and give people a clear way to question the rest.",
+  "note_en": "It links to your real NAB work and keeps the claim honest: engineering built the automation, design drew the line.",
+  "note_vi": "Câu trả lời nối với công việc thật ở NAB và nói đúng sự thật: kỹ sư làm phần tự động hóa, thiết kế vạch ra ranh giới."
+ },
+ "cards.28.follow_ups.0": {
+  "sample": "Then I'd look at where people say no, and why. Often it's the copy or the timing, and another round of tests can fix that. If it's truly 40% after that, it's a CEO decision about what kind of brand we are. I'd want that decision made on purpose, not by a default. At NAB, on the fulfilment work, a big part of my job was getting everyone to one definition of done. This is similar. For Qualgo, I'd bring the numbers and the options to the CEO, so the choice is explicit.",
+  "note_en": "You don't pretend the respectful version always wins, and you hand the real trade-off to the right person.",
+  "note_vi": "Bạn không giả vờ phương án tôn trọng người dùng luôn thắng, và đưa sự đánh đổi thật cho đúng người quyết định."
+ },
+ "cards.29.follow_ups.0": {
+  "sample": "Yes. Decree 13 is the 2023 personal data decree, the first comprehensive one in Vietnam. The 2026 law builds on it, with stronger penalties. I'm not a lawyer, so I'd check the details with your legal team. I do have practice designing inside regulation. RegShield, the MVP I'm working on now, is built around four regulators: ASIC, MAS, CFTC and CSA. For Qualgo, the practical effect is on consent screens. They must be specific and easy to withdraw, and the 'delete my account' path must be real.",
+  "note_en": "It gets the facts right, stays humble about the law, and brings it back to what changes on the screen.",
+  "note_vi": "Bạn nói đúng thông tin, khiêm tốn về mặt pháp lý, và đưa câu chuyện quay về những gì thay đổi trên màn hình."
+ },
+ "cards.30.follow_ups.0": {
+  "sample": "We can't read the messages, so I'd start with signals. Lots of reports, a sudden jump in new members, the same links shared again and again. When those line up, we remove the group. Then every member gets a notice explaining why, and anyone who tapped those links gets a warning. On RegShield I designed maker-checker controls, where a second person reviews a decision before it goes through. For a group this size, I'd want the same, so one person can't remove five thousand people by mistake. The admins still get an appeal.",
+  "note_en": "It respects encryption by using signals instead of content, and adds a second check you have really designed before.",
+  "note_vi": "Câu trả lời tôn trọng mã hóa vì dùng tín hiệu chứ không đọc nội dung, và thêm bước kiểm tra thứ hai mà bạn đã thật sự thiết kế."
+ },
+ "cards.30.follow_ups.1": {
+  "sample": "Not at product scale. I'm president of a Toastmasters club, which grew from seven to twenty members, and I've run two ADPList and UX cohorts. So I've handled conduct issues human to human. On the design side, I've designed maker-checker approval on RegShield, where a second person reviews a decision before it goes through. That's close to how moderation appeals should work. Product-scale moderation is new for me. I'd learn it from your trust and safety team, then design the admin tools with them.",
+  "note_en": "It says no honestly, then shows the closest real experience without stretching it.",
+  "note_vi": "Bạn trả lời \"chưa\" một cách trung thực, rồi đưa ra kinh nghiệm thật gần nhất mà không thổi phồng."
+ },
+ "cards.31.follow_ups.0": {
+  "sample": "Willingness to recommend us to a parent. I'd ask it as a survey question, because in Vietnam people trust people more than brands, and a parent is who you most want to protect. Then I'd back it with a behaviour number, invites sent per active user. If people say they'd recommend us but don't send invites, the survey is being too kind. On the stablecoin wallet, the authentication research was with first-time users. At Qualgo, I'd test this question with first-time users too, because that's where trust is won or lost.",
+  "note_en": "One metric with a reason, checked against real behaviour, sounds like someone who has measured things before.",
+  "note_vi": "Một chỉ số có lý do, được đối chiếu với hành vi thật, nghe như người đã từng đo lường thật sự."
+ },
+ "cards.32.follow_ups.0": {
+  "sample": "Calm over clever. Show what we protect, never more. People before product. Safe by default, powerful by choice. Local first, global standard. These are my draft from the outside, so I'd test them with the team before anyone relied on them. Each one is a choice between two good things, which is why it can settle an argument. As AI adoption lead in NAB's design chapter, I built our guidance from [what people were already trying], not from rules I brought in. At Qualgo, I'd expect to rewrite at least two of these.",
+  "note_en": "You give the five straight away, then admit they are a draft, which fits your advice not to bring principles in from outside.",
+  "note_vi": "Bạn nói ngay năm nguyên tắc, rồi thừa nhận đó chỉ là bản nháp, đúng với lời khuyên không mang nguyên tắc từ bên ngoài vào."
+ },
+ "cards.32.follow_ups.1": {
+  "sample": "Good. A principle no one argues with isn't doing anything. I'd ask which one and why, and look for a real decision where it would have pointed the wrong way. If it doesn't hold up, we rewrite it or drop it. That's what the workshop in the second month is for, so the team can try to break them. I run design catch-ups in NAB's design chapter, which average 4.53 out of 5, so I'm used to a room that pushes back. At Qualgo, I'd want the hiring manager in that workshop.",
+  "note_en": "Welcoming the disagreement shows you aren't attached to your own ideas and that principles get tested.",
+  "note_vi": "Hoan nghênh sự phản đối cho thấy bạn không bám vào ý của mình và nguyên tắc nào cũng phải được thử thách."
+ },
+ "cards.33.follow_ups.0": {
+  "sample": "I'd reframe it in the room. Something like, 'So the concern is performance on low-end devices?' That ties the comment to the goal, and the designer still decides what to act on. The point is often right, even when the tone isn't. Then I'd talk to the engineer afterwards, one to one, about how to land feedback. I was a developer for about four years, so I know engineers usually mean well. At Qualgo, with older users on cheap phones, a performance concern like that is one we need to hear.",
+  "note_en": "It protects the designer in the moment and deals with the tone in private, which keeps the room safe.",
+  "note_vi": "Bạn bảo vệ designer ngay lúc đó và xử lý chuyện giọng điệu ở riêng, nhờ vậy buổi critique vẫn an toàn."
+ },
+ "cards.34.follow_ups.0": {
+  "sample": "I'd track the share of screens built with system components, and the number of detached instances in Figma. I'd also watch the time from design to build for new features, because that's what engineering and product care about. At Hearti Lab, our data-viz library was used by two products, so severity looked the same everywhere. That was the real test of adoption. For Qualgo, I'd check these numbers every month with engineering. If adoption is high but builds aren't getting faster, the system isn't paying for itself yet.",
+  "note_en": "It uses numbers you can actually collect and links the system to build speed, with a real example of reuse.",
+  "note_vi": "Câu trả lời dùng những con số có thể thu thập thật, gắn hệ thống với tốc độ làm sản phẩm, và có ví dụ thật về việc dùng chung."
+ },
+ "cards.34.follow_ups.1": {
+  "sample": "I'd ask why, without blame. Usually the system is missing something, and the detach is the designer telling us. Then either we add it to the system, or we agree it's a one-off and note it. On the wallet project, two brands share one token structure. That only works if someone asks, each time, whether a new piece belongs to both brands or just one. At Qualgo, I'd look at detached instances every few weeks, because they show where the system doesn't fit real work yet.",
+  "note_en": "It treats the problem as missing parts in the system instead of a bad designer, which shows good leadership.",
+  "note_vi": "Bạn coi vấn đề là hệ thống còn thiếu chứ không phải designer làm sai, cho thấy cách lãnh đạo tốt."
+ },
+ "cards.35.follow_ups.0": {
+  "sample": "At Hearti Lab I recruited and led three designers, so I'll be specific. [Whether I ran their formal performance reviews myself, and how they worked.] [Whether anyone left, and the honest reason why.] What I did do was set up how we worked, review their work and coach them across three products. I haven't run a performance cycle for a team of ten yet. At Qualgo, that's where I'd ask HR and my manager for support early, so the process is fair from day one.",
+  "note_en": "These facts aren't confirmed yet, so fill in the brackets with the truth before the interview and never guess.",
+  "note_vi": "Những chi tiết này chưa được xác nhận, nên hãy điền sự thật vào chỗ trong ngoặc vuông trước buổi phỏng vấn và đừng bao giờ đoán."
+ },
+ "cards.35.follow_ups.1": {
+  "sample": "Gladly. I'd give them the lead on visual quality and learn from them. My job is to make sure great craft lands on the right problem. At Hearti Lab I led three designers across three products, and my part was the same. I set up how we worked, then reviewed the work against the goal. I'd also ask this person to help raise everyone's craft through critique. At Qualgo, a calm, trustworthy interface depends on visual craft, so someone stronger than me there is good news.",
+  "note_en": "It shows you're secure enough to lead people better than you at something, which is what a hiring manager wants in a lead.",
+  "note_vi": "Câu trả lời cho thấy bạn đủ tự tin để dẫn dắt người giỏi hơn mình ở một mặt, đúng điều quản lý tuyển dụng muốn thấy ở một lead."
+ },
+ "cards.36.follow_ups.0": {
+  "sample": "Yes. On [the project, for example Merchant or the stablecoin wallet], we shipped [the rough part, for example the layout or the copy] before it was polished. That was something we could undo, so I was happy to learn from real use instead of spending another week on polish. What I didn't rush was [the trust part, for example anything touching money or privacy]. Real use taught us [what you learned]. At Qualgo I'd work the same way: ship layout and copy fast, and give privacy defaults the extra time.",
+  "note_en": "It uses the undo or can't-undo idea from the main answer, and the brackets keep you from inventing a project detail you haven't confirmed.",
+  "note_vi": "Câu trả lời dùng lại ý \"làm lại được hay không\" từ câu chính, và phần ngoặc vuông giúp bạn không bịa chi tiết dự án chưa xác nhận."
+ },
+ "cards.37.follow_ups.0": {
+  "sample": "One designer I mentored on ADPList [what they struggled with, for example explaining their decisions, not just showing screens]. My first instinct was to give them the answer. Instead I asked what they would try first, and we picked one thing to work on, not ten. I also talked through my own trade-offs out loud, so they could hear the reasoning behind a screen. [What changed, for example a few sessions later they walked me through their reasoning without notes.] With junior designers at Qualgo, I'd start the same way.",
+  "note_en": "It shows your method in action on one real person, kept anonymous, instead of repeating the session numbers.",
+  "note_vi": "Câu trả lời cho thấy cách bạn mentor qua một người cụ thể, giữ ẩn danh, thay vì nhắc lại số buổi."
+ },
+ "cards.38.follow_ups.0": {
+  "sample": "Then I'd move to a clear plan with a date. I'd write down what good looks like, for example a handoff with every state covered, and what support they'd get from me each week. I'd bring HR in early, not at the last minute. It has to be fair and written down, so there are no surprises for anyone. At Hearti Lab I led a team of three, so I know how much one person's work affects the others. Most people improve once the bar is clear.",
+  "note_en": "It stays calm and fair, and it shows you would act early instead of hoping the problem goes away.",
+  "note_vi": "Câu trả lời bình tĩnh và công bằng, cho thấy bạn sẽ hành động sớm thay vì chờ vấn đề tự hết."
+ },
+ "cards.38.follow_ups.1": {
+  "sample": "Yes. At NAB, [the situation, for example a senior stakeholder's request that I thought would hurt users]. I asked for a short one-to-one instead of raising it in a group meeting, because nobody likes being challenged in front of their team. I used the same SBI structure: what I saw, and what it would cost. I said, [your exact words]. Then I asked how they saw it, because they often know something I don't. [What happened next.] I'd keep the same habit at Qualgo, with my manager and with senior leaders.",
+  "note_en": "Giving feedback upwards in private, with respect, is the signal they want, and the brackets keep the story real.",
+  "note_vi": "Góp ý ngược lên cấp trên một cách riêng tư và tôn trọng là điều họ muốn thấy, còn ngoặc vuông giữ cho câu chuyện là thật."
+ },
+ "cards.39.follow_ups.0": {
+  "sample": "Yes, I annotate in Figma [Dev Mode too, only if you really use it], plus a short [Loom] video for anything complex, like motion or a tricky flow. But the file isn't the whole handover. I was a developer for four years, so I know the pain of getting a happy path and no error state. So I list every state, like error, empty and offline, and I check the build on a real device before it ships. For a chat app, I'd add states like sending, failed and a very long message.",
+  "note_en": "It answers the tool question in one line, then moves to the states and device review, which matter more to engineers.",
+  "note_vi": "Câu trả lời trả lời câu hỏi về công cụ trong một câu, rồi chuyển sang trạng thái màn hình và review trên thiết bị thật, là điều kỹ sư quan tâm hơn."
+ },
+ "cards.40.follow_ups.0": {
+  "sample": "All outcomes and no decisions, or only final screens. Polished screens tell me they can make things look good. They don't tell me how they think. I want to see the mess: the options they dropped and why. That's judgement, and it's the first thing I looked for when I hired three designers at Hearti Lab. In the interview I'd ask them to walk me through one decision they'd change now. Good designers usually get more interested at that question, and weaker ones get defensive.",
+  "note_en": "It links the red flag back to judgement, your first hiring criterion, so the answer feels consistent.",
+  "note_vi": "Câu trả lời nối dấu hiệu xấu với khả năng phán đoán, tiêu chí tuyển dụng đầu tiên của bạn, nên nghe nhất quán."
+ },
+ "cards.41.follow_ups.0": {
+  "sample": "I pushed for [X, the design you wanted]. The PM went the other way because of [the deadline or a regulation]. I made my case once, with the evidence I had, and then I committed and helped make their version work. Looking back, they were right, because [the reason]. It taught me that a PM often sees a constraint I can't see from the design side. In a regulated bank like NAB that happens a lot, and I'd expect the same in a security company like Qualgo.",
+  "note_en": "Admitting the PM was right shows you're easy to work with, which is the real question behind this follow-up.",
+  "note_vi": "Thừa nhận PM đúng cho thấy bạn dễ làm việc cùng, đó mới là điều thật sự họ muốn biết."
+ },
+ "cards.41.follow_ups.1": {
+  "sample": "Then I'd write down the risk and the decision in a few lines, so nobody has to remember it later. We'd agree what we'll watch after launch, for example completion on that step, or support calls about it. Then it's disagree and commit, with a review date in the calendar. If the number drops, we've already agreed to look at it again, so nobody has to argue twice. For a change we can undo, like a form field, that's a fair trade for speed.",
+  "note_en": "It shows you won't block a release, but you also won't let the risk disappear.",
+  "note_vi": "Câu trả lời cho thấy bạn không cản việc ra mắt, nhưng cũng không để rủi ro bị lãng quên."
+ },
+ "cards.42.follow_ups.0": {
+  "sample": "I'd never assume that. If I'm not convinced, I'd pair with them for an hour on the problem. I was a developer for four years, so I can follow the code side and ask a better question, like whether the cost is in the real-time sync or the rendering. Usually I learn something I didn't know, and they see I take the cost seriously. After that, we look together for a cheaper way to give users the same value, like a native component instead of a custom one.",
+  "note_en": "It refuses the blame frame in the question and turns doubt into working together.",
+  "note_vi": "Câu trả lời từ chối cách hỏi mang tính đổ lỗi và biến nghi ngờ thành cùng nhau giải quyết."
+ },
+ "cards.43.follow_ups.0": {
+  "sample": "Dark patterns. Tricking people into sharing their data or money, or hiding how to delete an account. I'd say that calmly and early, so it's never a surprise. For a company that sells trust, I'd expect the CEO to hold that line too, so I'd talk about the risk to the brand and to users. On anything else, if I've made my case and they still decide, I commit and make it as good as I can. A small test with a metric we agree on often settles it anyway.",
+  "note_en": "It names a clear line without sounding preachy, and shows you still commit on everything else.",
+  "note_vi": "Câu trả lời nêu rõ ranh giới mà không lên giọng đạo đức, và cho thấy bạn vẫn cam kết với mọi việc khác."
+ },
+ "cards.44.follow_ups.0": {
+  "sample": "The top ten reasons people contact us, tagged by flow, every month. That shows me where the product confuses people. And each week, the three scariest tickets, in full. For a scam-protection product, those are the stories where someone nearly lost money. The numbers tell me where to look, and the tickets tell me what really happened. In my first month I'd also sit in on a support shift. Whatever marketing promises, the product has to keep, and support is where we find out if it did.",
+  "note_en": "It asks for something specific and regular, which shows you would really use support as research.",
+  "note_vi": "Câu trả lời yêu cầu dữ liệu cụ thể và đều đặn, cho thấy bạn thật sự dùng support như một nguồn nghiên cứu."
+ },
+ "cards.45.follow_ups.0": {
+  "sample": "Sometimes. Frameworks help when the team is arguing, because everyone scores the same things. They hurt when they pretend to be precise. A RICE score of 42 against 39 means nothing if the reach number was a guess. So I use it to start the conversation, then bring my ranked list of user problems, with how often each one happens and how bad it is. At NAB, the fulfilment work was easy to explain in business terms: about a day down to about five minutes. That kind of line does more in a roadmap meeting than a score.",
+  "note_en": "It shows you know RICE without treating it as magic, and brings it back to your own evidence without claiming you set the priority.",
+  "note_vi": "Câu trả lời cho thấy bạn biết RICE nhưng không coi nó là phép màu, và quay về bằng chứng của bạn mà không nhận là mình quyết định thứ tự ưu tiên."
+ },
+ "cards.46.follow_ups.0": {
+  "sample": "[Your real answer. For example: Yes, I'm happy to travel for key moments, like a project kickoff or research with partners.] Most of my career has been across time zones. At LSEG I designed for users in 190 countries, and the freelance wallet work runs on weekly calls with an overseas client. So I know a lot can be done remotely, with decisions written down in one place. But some things go better face to face, like the first week with a new team. [Any honest limit, for example how often you could travel.]",
+  "note_en": "Only you know your real answer, so the brackets stop you from promising travel you can't do.",
+  "note_vi": "Chỉ bạn biết câu trả lời thật, nên ngoặc vuông giúp bạn không hứa đi công tác nhiều hơn khả năng."
+ },
+ "cards.47.follow_ups.0": {
+  "sample": "I didn't argue. I showed my own before-and-after on RegShield, where by my own estimate AI roughly halved the time. Then I asked them to try it on one task, in an approved tool. Some designers were nervous about policy, so clear guidance on what's approved helped more than any pitch. We also shared a small library of prompts that worked. A few still don't use it much, and that's fine. At Qualgo, with security so central, I'd start from the policy first, then the demos.",
+  "note_en": "It shows influence through proof and safety, and admits that not everyone changed, which sounds honest.",
+  "note_vi": "Câu trả lời cho thấy bạn tạo ảnh hưởng bằng bằng chứng và sự an toàn, và thừa nhận không phải ai cũng thay đổi, nên nghe trung thực."
+ },
+ "cards.47.follow_ups.1": {
+  "sample": "No, it's my estimate from tracking my own work. On RegShield, I noted where AI helped across my design activities, like research synthesis, documentation, prototyping and feedback capture. By that count it supported about sixty percent of them and roughly halved the time. It's one person's work on one project, not a controlled study, so I call it an estimate every time. If Qualgo wanted a real number, I'd pick two or three tasks, time them before and after, and compare.",
+  "note_en": "A clear no plus how you counted it builds more trust than any number could.",
+  "note_vi": "Một câu \"không\" rõ ràng kèm cách bạn đếm tạo niềm tin hơn bất kỳ con số nào."
+ },
+ "cards.48.follow_ups.0": {
+  "sample": "[Only if it really happened: a completion rate went up because we removed a step people actually needed.] If I don't have a clean story, I'll say the principle. Completion isn't success. A number can go up while people end up worse off, with more errors or more support calls later. So now I always pair it with a downstream check. For a scam warning at Qualgo, that check could be whether people later block or report that contact.",
+  "note_en": "The principle works even without a story, so you never have to make one up.",
+  "note_vi": "Nguyên tắc vẫn đứng vững dù không có câu chuyện, nên bạn không bao giờ phải bịa ra một câu chuyện."
+ },
+ "cards.49.follow_ups.0": {
+  "sample": "For a leading messenger, it's high, often well above half, because people open chat every day. But I wouldn't hold a new app to that number, and I'd be careful quoting exact benchmarks. For a new one, I'd care more about the trend, and whether the cohort curves flatten out. If they flatten, people have found a reason to stay. I'd also check that active people are talking to someone they know, because that's the North Star, and spam can push DAU up too.",
+  "note_en": "It avoids quoting an exact industry number you can't back up and moves to what you would really watch.",
+  "note_vi": "Câu trả lời tránh đưa con số ngành chính xác mà bạn không chắc, và chuyển sang điều bạn thật sự sẽ theo dõi."
+ },
+ "cards.49.follow_ups.1": {
+  "sample": "Survey for the feeling, behaviour for the proof. I'd ask a simple question, like would you recommend this to your parents. Then I'd watch what people do: invites sent, contacts granted, settings people don't need to change. If people trust us, they bring their family in. I'd also watch the guardrails, like scam warnings dismissed and later reported. And with end-to-end encryption, we only count events, never content. We know a warning was shown and what the user did, never what the message said.",
+  "note_en": "It gives trust a real measure and remembers the encryption limit, which a security company will notice.",
+  "note_vi": "Câu trả lời đưa ra cách đo niềm tin cụ thể và nhớ giới hạn của mã hóa, điều một công ty bảo mật sẽ để ý."
+ },
+ "cards.50.follow_ups.0": {
+  "sample": "Then I'd use friends of friends outside the industry, people who call support, and quick guerrilla tests at a café. In Vietnam that's easy to set up. I'd still try to include older Android phones and people outside Saigon and Hanoi, because they're easy to miss. It's imperfect, and I'd say so in the readout, with how confident we are. But it's better than none. I'd also start with what we already have, like support tickets and analytics, since half the answer is often there.",
+  "note_en": "It stays practical and honest about the limits, instead of saying research is impossible without budget.",
+  "note_vi": "Câu trả lời thực tế và trung thực về giới hạn, thay vì nói không có ngân sách thì không nghiên cứu được."
+ },
+ "cards.51.follow_ups.0": {
+  "sample": "For prototyping in code, Cursor. That's how I built the stablecoin wallet front end, a mobile-responsive web app. [Add only other tools you really use, for example Claude for synthesis or Figma AI.] The tool matters less than the process. AI drafts, and I check every insight against the source. For anything with internal or user data, I only use tools the company has approved. At a security company like Qualgo, I'd want to know the policy in my first week, and I'd be glad to help shape it.",
+  "note_en": "It names only tools you can talk about in depth and brings the answer back to data safety.",
+  "note_vi": "Câu trả lời chỉ nêu công cụ bạn nói sâu được và quay về chuyện an toàn dữ liệu."
+ },
+ "cards.51.follow_ups.1": {
+  "sample": "It's replacing the parts of the job that were never the point, like first drafts of docs and copy variants. The designers who'll struggle are the ones whose value was producing screens rather than deciding which screens should exist. Judgement is still ours. AI is confident when it's wrong, so someone has to decide what's true. On RegShield, AI takes a lot of the drafting, and that gives me more time for the hard calls. As a lead, I'd coach the team toward that kind of work.",
+  "note_en": "It gives a clear view without fear or hype, and places your value in judgement.",
+  "note_vi": "Câu trả lời có quan điểm rõ, không sợ hãi cũng không thổi phồng, và đặt giá trị của bạn ở khả năng phán đoán."
+ },
+ "cards.52.follow_ups.0": {
+  "sample": "That's fair, so I'd design for uncertainty. Low confidence gets the quiet tier, like a small note. The strong warning is only for high-confidence combinations, like an OTP request from a new contact. And people can correct it in one tap. A weaker model with honest UX beats a stronger one that breaks the promise. I'm not an ML engineer, so I'd set the thresholds together with the security team. It's the same pattern I'm designing in RegShield, where each AI suggestion shows its reason and is easy to correct.",
+  "note_en": "It agrees with the point instead of arguing the tech, then answers with design, which is your job.",
+  "note_vi": "Câu trả lời đồng ý với nhận xét thay vì tranh luận kỹ thuật, rồi trả lời bằng thiết kế, đúng vai trò của bạn."
+ },
+ "cards.52.follow_ups.1": {
+  "sample": "Agents must ask before anything irreversible, show what they did, and be undoable. In my Design Day Challenge concept for agentic banking, the core idea was exactly that: the agent proposes, the human confirms. It was a concept, not a shipped product. In chat, I'd start small, like an agent that drafts a reply but never sends it alone. Anything that sends money, shares data or deletes something would always need a clear confirm step, with the details on screen.",
+  "note_en": "It gives clear rules and says plainly that the banking work was a concept, so nothing is overclaimed.",
+  "note_vi": "Câu trả lời đưa ra quy tắc rõ ràng và nói thẳng rằng dự án ngân hàng chỉ là concept, nên không nói quá."
+ },
+ "cards.53.follow_ups.0": {
+  "sample": "For consumers, words and visual weight, not percentages. A soft note that says this may be a scam feels very different from a strong red warning. Most people don't know what a confidence score means, and a number can make them trust it too much. For expert users like in RegShield, numbers can work. There, every AI-filled field shows its source, and a reviewer checks it before they sign off. In Qualgo's chat app, I'd keep numbers off the main screen.",
+  "note_en": "It shows you match the display to the user, and the RegShield example is real design work, not a claim about live results.",
+  "note_vi": "Câu trả lời cho thấy bạn chọn cách hiển thị theo người dùng, và ví dụ RegShield là công việc thiết kế thật, không phải tuyên bố về kết quả đã chạy thật."
+ },
+ "cards.54.follow_ups.0": {
+  "sample": "Fewer independent units, so you need more people or longer tests. If I randomise by cluster, a whole group of people who talk to each other counts as one unit, not each person. So a big test can turn out to have only a small number of real units. My own hands-on A/B testing is [how much you have really done], so I'd be open about that. For Qualgo, I'd save cluster tests for decisions that are worth it, like a new message type, and I'd size each one with a data scientist.",
+  "note_en": "It explains the statistics problem in plain words and is honest about how much testing you've done yourself.",
+  "note_vi": "Câu trả lời giải thích vấn đề thống kê bằng lời đơn giản và thành thật về kinh nghiệm A/B testing thật của bạn."
+ },
+ "cards.55.follow_ups.0": {
+  "sample": "Calm is how you get a daily habit without burnout. Signal and WhatsApp aren't loud, and people open them every day. In a messenger, the reason to come back is your people, so we don't need a feed to pull you in. I used the same idea on the stablecoin wallet. Security stays quiet until the moment of value, when you send money, and then it's very clear. For Qualgo I'd measure DAU over MAU, and how many people invite family, instead of time spent.",
+  "note_en": "It agrees that engagement matters, then picks a metric that fits a messenger instead of a feed app.",
+  "note_vi": "Câu trả lời đồng ý rằng mức độ tương tác quan trọng, rồi chọn một chỉ số hợp với app nhắn tin thay vì app có feed."
+ },
+ "cards.55.follow_ups.1": {
+  "sample": "The waiting room for strangers. It's the most visible protection, and it's cheap compared to its trust value. A message from someone you don't know lands in a separate place, with context, and you decide before you reply. It's the same thinking I used on the stablecoin wallet: put the security at the moment that matters, not at the front door. People feel safe without having to understand encryption. But that's my outside-in pick. In my first month I'd check it against your roadmap and your support tickets.",
+  "note_en": "It makes one clear choice with a reason, and keeps the outside-in humility from the main answer.",
+  "note_vi": "Câu trả lời chọn rõ một thứ kèm lý do, và vẫn giữ sự khiêm tốn \"nhìn từ ngoài vào\" của câu trả lời chính."
+ },
+ "cards.56.follow_ups.0": {
+  "sample": "If it's a trust or safety issue, I raise it right away with the PM and the engineering lead. Otherwise I write it down and keep listening. Week two opinions are often wrong, because I don't know the history yet. When I took on leading AI adoption for a design chapter, I started by listening before I changed anything. That's how I found out what people actually needed. At Qualgo, at the end of month one, I'd share a short written view. If it still looks broken then, it goes in there with a fix.",
+  "note_en": "It shows judgement: act fast on safety, and wait on everything else until you know the context.",
+  "note_vi": "Câu trả lời cho thấy khả năng phán đoán: xử lý ngay nếu là chuyện an toàn, còn lại thì chờ đến khi hiểu bối cảnh."
+ },
+ "cards.57.follow_ups.0": {
+  "sample": "Families and scams. It's emotional and it's urgent, and scam stories are already in the news. Adult children will install it for their parents. That's a growth loop with a reason: one family brings a whole group, and their contacts follow. It also fits my own work. In banking I designed maker-checker flows, where a second person checks a risky action. For families, the version could be an adult child being told about a large transfer, as an opt-in. It's still a hypothesis, so I'd test it with real families first.",
+  "note_en": "It commits to one wedge and explains how it grows, while still calling it a hypothesis.",
+  "note_vi": "Câu trả lời chọn hẳn một wedge và giải thích nó tăng trưởng thế nào, nhưng vẫn gọi đó là giả thuyết."
+ },
+ "cards.57.follow_ups.1": {
+  "sample": "Same principle, different wedge. People add a messenger when they have a clear reason, and I think that's true anywhere. But the reason there could be very different from Vietnam, and I don't know those users yet. I've lived and worked in Singapore for about fifteen years, so I know how much an outsider can miss. That's why I'd want to learn that market before guessing. For Qualgo, I'd start with local research and with the people on your team who know that region well.",
+  "note_en": "It's honest about not knowing the market and doesn't make up insights to sound smart.",
+  "note_vi": "Câu trả lời thành thật là chưa hiểu thị trường đó và không bịa ra nhận định để tỏ ra thông minh."
+ },
+ "cards.58.follow_ups.0": {
+  "sample": "Explain the why every time the direction changes. And make sure some of their work ships regardless. At Hearti Lab the direction moved monthly, and I was leading a team of three. I tried to keep the lasting work, like the design system and core flows, moving while the bets changed. We still shipped three products and fifteen projects in two years. Nothing kills morale like years of unshipped work. At Qualgo I'd split the plan the same way, so every designer has something going live.",
+  "note_en": "It ties morale to a practical habit from the main answer, so it doesn't sound like a slogan.",
+  "note_vi": "Câu trả lời gắn tinh thần đội với một thói quen cụ thể từ câu trả lời chính, nên không nghe như khẩu hiệu."
+ },
+ "cards.59.follow_ups.0": {
+  "sample": "I can't isolate it fully. The NAB Merchant onboarding redesign was the main change in that period, but sales and process changed too. What I can say is that we cut steps, and fewer steps meant fewer people giving up halfway. So I'd call design a major contributor, not the sole cause. And to be clear, the twenty percent is a [relative or absolute] change. At Qualgo I'd agree with the PM how we'll measure design's part before a launch, so we aren't guessing afterwards.",
+  "note_en": "It shares the credit honestly, which is the trap this question tests, and leaves the relative or absolute label for you to confirm.",
+  "note_vi": "Câu trả lời chia công bằng một cách trung thực, đúng cái bẫy mà câu hỏi này kiểm tra, và để trống chỗ tương đối hay tuyệt đối cho bạn xác nhận."
+ },
+ "cards.60.follow_ups.0": {
+  "sample": "I've hired and led a team of three at Hearti Lab. I recruited the design team from scratch, and we shipped three products and fifteen projects in two years. But I haven't managed a large team's performance cycle. That's something I'd be learning here. I'd ask your HR partner to walk me through the process early. I'd also use what I've learned from mentoring over fifty designers on ADPList. I'd rather tell you now than have you find out in month three.",
+  "note_en": "It names a real gap for a Lead role and gives a plan, without making the team of three sound bigger.",
+  "note_vi": "Câu trả lời nói ra một khoảng trống thật cho vai trò Lead kèm kế hoạch, mà không thổi phồng đội ba người."
+ },
+ "cards.61.follow_ups.0": {
+  "sample": "If the product stopped being about trust, or if I couldn't build a team. Those are the two reasons I'm coming, so they're the two that would make me go. Most of my work has been about trust, like the CYBERhythm security dashboard at Hearti Lab and the fulfilment flow at NAB. And I'd tell you long before I left. You approached me more than once and I said not yet each time, so I don't move on a whim. If something felt wrong, you'd hear it from me early.",
+  "note_en": "It gives honest conditions instead of a promise to stay forever, which would sound fake.",
+  "note_vi": "Câu trả lời đưa ra điều kiện thật thay vì hứa ở lại mãi mãi, vì lời hứa đó nghe không thật."
+ },
+ "cards.62.follow_ups.0": {
+  "sample": "I'd rather focus on the value of this role than my current pay. My pay is in a different market and structure, in Singapore, so the number wouldn't compare well. I'm happy to share my expectations for this role instead. For context, I'm in a role I'm happy in, and right now I'm leading an AI-first MVP, so I'm not in a hurry to move. Could you share the range you've budgeted? Then we're talking about the same scope, and I can be specific.",
+  "note_en": "It stays friendly and moves the talk to the role's range without giving any number.",
+  "note_vi": "Câu trả lời giữ thái độ thân thiện và chuyển sang khoảng ngân sách của vai trò mà không đưa ra con số nào."
+ },
+ "cards.62.follow_ups.1": {
+  "sample": "I'll ask, but I won't break my commitments. My notice period is [X weeks or months], and I want to leave NAB properly, with a clean handover. There are projects I'm responsible for, and the team needs time to pick them up. You'd want the same from me one day. If NAB agrees to an earlier date, I'll tell you straight away. And before day one, I'm happy to read whatever you can share, so I can get up to speed faster.",
+  "note_en": "It shows the same loyalty they'd want from you, and leaves the real notice period for you to fill in.",
+  "note_vi": "Câu trả lời cho thấy sự giữ lời mà họ cũng muốn ở bạn, và để trống thời gian báo trước thật cho bạn điền."
+ },
+ "cards.63.follow_ups.0": {
+  "sample": "No. It's a wallet for a social-purpose project outside Vietnam, not a messenger or a security company. I won't name the client without their permission. My part is design: research, two design systems and some front-end code, on a mobile-responsive web app. If I join, I'll [wrap it up or hand it over] before my start date, and I'll disclose it to you in writing. But I'd let your legal team decide on any conflict, not me. I'd rather you hear all of this from me now.",
+  "note_en": "It answers plainly, protects the client's name, and leaves the final call to their legal team.",
+  "note_vi": "Câu trả lời nói thẳng, giữ kín tên khách hàng, và để đội pháp lý của họ quyết định."
+ },
+ "cards.64.follow_ups.0": {
+  "sample": "I'd rather know now, thank you. At Hearti Lab nobody handed us a process, and the direction moved every month. On the wallet I'm the whole design function, with one weekly call as the only structure. So change doesn't scare me. What helps me most is knowing who decides what. I'd ask for that clarity early, and then I can work with almost any pace. If a decision changes, I'd write down what changed and why, so the team isn't confused.",
+  "note_en": "It thanks them for being honest and asks for one practical thing instead of complaining.",
+  "note_vi": "Câu trả lời cảm ơn họ vì đã nói thật và xin một điều cụ thể thay vì than phiền."
+ },
+ "cards.65.follow_ups.0": {
+  "sample": "Then you have to decide which is harder to learn, chat patterns or trust. My view is that chat patterns are the easier one. Trust takes years. I've worked on it in the CYBERhythm security dashboard at Hearti Lab, and in the NAB fulfilment flow, where design decided which steps a human still reviews. I haven't shipped chat, so I'd learn it by spending my first month in your support tickets and with your engineers. Later, when there's budget, I'd hire a designer with chat depth.",
+  "note_en": "It accepts the trade-off calmly and gives a concrete plan for closing the chat gap.",
+  "note_vi": "Câu trả lời chấp nhận sự đánh đổi một cách bình tĩnh và đưa ra kế hoạch cụ thể để lấp khoảng trống về chat."
+ },
+ "cards.68.follow_ups.0": {
+  "sample": "Only if it's on every payment. It's for a first large payment to someone new, which is a tiny share of volume and most of the fraud. Payments to people you already know stay fast. I've made this kind of trade before. In the NAB fulfilment flow, design decided which steps could be automated and where a human still reviews. It went from about a day to about five minutes. Here I'd test the cooling-off on that one slice only, and watch completion for known contacts next to reported fraud.",
+  "note_en": "It keeps the friction to the risky slice and names the measures, so the PM can see you care about conversion too.",
+  "note_vi": "Câu trả lời chỉ thêm ma sát ở nhóm giao dịch rủi ro và nêu rõ chỉ số, để PM thấy bạn cũng quan tâm đến conversion."
+ },
+ "cards.68.follow_ups.1": {
+  "sample": "That's a legal and policy decision, so I wouldn't promise anything there. Design's job is to make sure the user was clearly warned before they sent it. And reporting has to be fast enough to stop the money if the rails allow it. On the stablecoin wallet, I put the amount, the recipient's name and whether it can be undone first on the confirmation screen. At Qualgo I'd add a clear \"report a problem\" path on every payment in the chat, and work with legal on what we promise.",
+  "note_en": "It avoids promising refunds, which is a known trap, and keeps design's part concrete.",
+  "note_vi": "Câu trả lời tránh hứa hoàn tiền, một cái bẫy đã biết, và nói rõ phần việc cụ thể của thiết kế."
+ },
+ "cards.69.follow_ups.0": {
+  "sample": "Maybe, but I'd rather make the default simple enough. Separate modes often become the place we stop caring about, and they get fewer updates. If the main app has one clear action on each risky screen and big touch targets, older people don't need a separate version. At LSEG I worked on accessibility for a palette of 52 colours, so I've seen how much you can fix inside the default. For Qualgo I'd test with older users at maximum font size on a mid-range Android, and only add a mode if the default really fails.",
+  "note_en": "It avoids jumping to a separate interface and explains why one good default helps everyone.",
+  "note_vi": "Câu trả lời tránh việc vội làm giao diện riêng và giải thích vì sao một mặc định tốt giúp được tất cả mọi người."
+ },
+ "cards.70.follow_ups.0": {
+  "sample": "Then I'd love to hear the reasoning. I'm seeing it with zero context, so I'm probably missing the constraint. Was that a deliberate choice? I was a developer for about four years, so I know a lot of design choices come from technical limits nobody outside the team can see. If there's a reason, my view might change. If there isn't, I'd still want to talk about it, because it affects how much a new user trusts the app. And I'd want you in the room when we decide.",
+  "note_en": "It stays curious and respectful with the person who made it, without dropping the point.",
+  "note_vi": "Câu trả lời giữ sự tò mò và tôn trọng với người đã làm ra nó, nhưng không bỏ luôn ý kiến của mình."
+ },
+ "cards.71.follow_ups.0": {
+  "sample": "Early and plainly, with what we knew and when we'd know more. After [the fulfilment flow went live], I told [who you told first, for example the operations lead and the product owner] on [when]. I said what had happened and what we'd already done to limit it. Then I gave a time for the next update. I didn't wait for the full answer, because people fill silence with guesses. [One line on how they reacted.] At Qualgo, with a security product, I'd agree that kind of message plan with engineering before launch.",
+  "note_en": "It follows the early and plain rule and leaves the real details for you to fill in, so nothing is made up.",
+  "note_vi": "Câu trả lời theo đúng nguyên tắc nói sớm và nói rõ, và để trống chi tiết thật cho bạn điền, nên không có gì bị bịa ra."
+ }
+}
