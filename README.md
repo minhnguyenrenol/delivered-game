@@ -2,7 +2,7 @@
 
 A 14-day, one-hour-a-day messenger game for rehearsing the Qualgo Lead Product Designer interview.
 
-**Play:** open `index.html` from GitHub Pages. English by default; the globe button at the top right switches to Vietnamese.
+**Play:** https://minhnguyenrenol.github.io/delivered-game/ English by default; the globe button at the top right switches to Vietnamese.
 
 This web copy keeps progress in the browser on each device. The claude.ai version also syncs progress to your account and has the Coach Thư AI chat.
 
