@@ -55,14 +55,14 @@
   "note_vi": "Thừa nhận một điều bạn sẽ làm khác khiến phần còn lại đáng tin hơn, và ví dụ NAB cho thấy bạn đã thay đổi."
  },
  "cards.5.follow_ups.1": {
-  "sample": "I was self-taught. After six years in design I could do the work, but I wanted the research methods and the vocabulary to lead designers, not just do design. I did the UX master's at MICA while working. Before it, at Hearti Lab, I'd hired and led a team of three, and the master's helped me explain my choices to them and to stakeholders. Since then I've used it in mentoring, with over 250 sessions on ADPList. For a lead role at Qualgo, that's the part I'd use every day.",
+  "sample": "I was self-taught. After six years in design I could do the work, but I wanted the research methods and the vocabulary to lead designers, not just do design. I did the UX master's at MICA while working. Before it, at Hearti Lab, I'd hired and led a team of two, and the master's helped me explain my choices to them and to stakeholders. Since then I've used it in mentoring, with over 250 sessions on ADPList. For a lead role at Qualgo, that's the part I'd use every day.",
   "note_en": "It links the degree to leading people, which is what a Lead role needs, instead of sounding like you were filling time.",
   "note_vi": "Câu trả lời nối tấm bằng thạc sĩ với việc dẫn dắt con người, đúng thứ vai trò Lead cần, thay vì nghe như bạn đi học cho có."
  },
  "cards.6.follow_ups.0": {
-  "sample": "Yes, when the product needs it. At Hearti Lab I hired and led a team of three while we built CYBERhythm. I haven't run a team of ten yet, and I'd want to grow into that with the product, not ahead of it. I've also coached a lot of designers one to one, over 250 sessions on ADPList and more than 50 mentees. At Qualgo I'd start by raising the bar with the team you have, then hire when the roadmap shows a real gap.",
+  "sample": "Yes, when the product needs it. At Hearti Lab I hired and led a team of two while we built CYBERhythm. I haven't run a team of ten yet, and I'd want to grow into that with the product, not ahead of it. I've also coached a lot of designers one to one, over 250 sessions on ADPList and more than 50 mentees. At Qualgo I'd start by raising the bar with the team you have, then hire when the roadmap shows a real gap.",
   "note_en": "It keeps the real team size of three and shows ambition without asking for a big team on day one.",
-  "note_vi": "Câu trả lời giữ đúng quy mô đội 3 người và vẫn thể hiện tham vọng, không đòi một đội lớn ngay từ đầu."
+  "note_vi": "Câu trả lời giữ đúng quy mô đội 2 người và vẫn thể hiện tham vọng, không đòi một đội lớn ngay từ đầu."
  },
  "cards.6.follow_ups.1": {
   "sample": "If I stopped learning, or if we started shipping things we wouldn't use ourselves. The second one matters most to me. On the NAB fulfilment flow, the hardest call was keeping a human on a check with real regulatory risk, when the obvious answer was to automate everything. I'd hold Qualgo to the same standard. If I wouldn't give the product to my own parents, I'd raise it early and clearly. Leaving would come a long way after that, and only if nobody listened.",
@@ -265,7 +265,7 @@
   "note_vi": "Câu trả lời tôn trọng mã hóa vì dùng tín hiệu chứ không đọc nội dung, và thêm bước kiểm tra thứ hai mà bạn đã thật sự thiết kế."
  },
  "cards.30.follow_ups.1": {
-  "sample": "Not at product scale. I'm president of a Toastmasters club, which grew from seven to twenty members, and I've run two ADPList and UX cohorts. So I've handled conduct issues human to human. On the design side, I've designed maker-checker approval on RegShield, where a second person reviews a decision before it goes through. That's close to how moderation appeals should work. Product-scale moderation is new for me. I'd learn it from your trust and safety team, then design the admin tools with them.",
+  "sample": "Not at product scale. I was president of a Toastmasters club for a year, and it grew from seven to twenty members, and I've run two ADPList and UX cohorts. So I've handled conduct issues human to human. On the design side, I've designed maker-checker approval on RegShield, where a second person reviews a decision before it goes through. That's close to how moderation appeals should work. Product-scale moderation is new for me. I'd learn it from your trust and safety team, then design the admin tools with them.",
   "note_en": "It says no honestly, then shows the closest real experience without stretching it.",
   "note_vi": "Bạn trả lời \"chưa\" một cách trung thực, rồi đưa ra kinh nghiệm thật gần nhất mà không thổi phồng."
  },
@@ -300,12 +300,12 @@
   "note_vi": "Bạn coi vấn đề là hệ thống còn thiếu chứ không phải designer làm sai, cho thấy cách lãnh đạo tốt."
  },
  "cards.35.follow_ups.0": {
-  "sample": "At Hearti Lab I recruited and led three designers, so I'll be specific. [Whether I ran their formal performance reviews myself, and how they worked.] [Whether anyone left, and the honest reason why.] What I did do was set up how we worked, review their work and coach them across three products. I haven't run a performance cycle for a team of ten yet. At Qualgo, that's where I'd ask HR and my manager for support early, so the process is fair from day one.",
+  "sample": "At Hearti Lab I recruited and led two designers, so I'll be specific. [Whether I ran their formal performance reviews myself, and how they worked.] [Whether anyone left, and the honest reason why.] What I did do was set up how we worked, review their work and coach them across three products. I haven't run a performance cycle for a team of ten yet. At Qualgo, that's where I'd ask HR and my manager for support early, so the process is fair from day one.",
   "note_en": "These facts aren't confirmed yet, so fill in the brackets with the truth before the interview and never guess.",
   "note_vi": "Những chi tiết này chưa được xác nhận, nên hãy điền sự thật vào chỗ trong ngoặc vuông trước buổi phỏng vấn và đừng bao giờ đoán."
  },
  "cards.35.follow_ups.1": {
-  "sample": "Gladly. I'd give them the lead on visual quality and learn from them. My job is to make sure great craft lands on the right problem. At Hearti Lab I led three designers across three products, and my part was the same. I set up how we worked, then reviewed the work against the goal. I'd also ask this person to help raise everyone's craft through critique. At Qualgo, a calm, trustworthy interface depends on visual craft, so someone stronger than me there is good news.",
+  "sample": "Gladly. I'd give them the lead on visual quality and learn from them. My job is to make sure great craft lands on the right problem. At Hearti Lab I led two designers across three products, and my part was the same. I set up how we worked, then reviewed the work against the goal. I'd also ask this person to help raise everyone's craft through critique. At Qualgo, a calm, trustworthy interface depends on visual craft, so someone stronger than me there is good news.",
   "note_en": "It shows you're secure enough to lead people better than you at something, which is what a hiring manager wants in a lead.",
   "note_vi": "Câu trả lời cho thấy bạn đủ tự tin để dẫn dắt người giỏi hơn mình ở một mặt, đúng điều quản lý tuyển dụng muốn thấy ở một lead."
  },
@@ -320,7 +320,7 @@
   "note_vi": "Câu trả lời cho thấy cách bạn mentor qua một người cụ thể, giữ ẩn danh, thay vì nhắc lại số buổi."
  },
  "cards.38.follow_ups.0": {
-  "sample": "Then I'd move to a clear plan with a date. I'd write down what good looks like, for example a handoff with every state covered, and what support they'd get from me each week. I'd bring HR in early, not at the last minute. It has to be fair and written down, so there are no surprises for anyone. At Hearti Lab I led a team of three, so I know how much one person's work affects the others. Most people improve once the bar is clear.",
+  "sample": "Then I'd move to a clear plan with a date. I'd write down what good looks like, for example a handoff with every state covered, and what support they'd get from me each week. I'd bring HR in early, not at the last minute. It has to be fair and written down, so there are no surprises for anyone. At Hearti Lab I led a team of two, so I know how much one person's work affects the others. Most people improve once the bar is clear.",
   "note_en": "It stays calm and fair, and it shows you would act early instead of hoping the problem goes away.",
   "note_vi": "Câu trả lời bình tĩnh và công bằng, cho thấy bạn sẽ hành động sớm thay vì chờ vấn đề tự hết."
  },
@@ -335,7 +335,7 @@
   "note_vi": "Câu trả lời trả lời câu hỏi về công cụ trong một câu, rồi chuyển sang trạng thái màn hình và review trên thiết bị thật, là điều kỹ sư quan tâm hơn."
  },
  "cards.40.follow_ups.0": {
-  "sample": "All outcomes and no decisions, or only final screens. Polished screens tell me they can make things look good. They don't tell me how they think. I want to see the mess: the options they dropped and why. That's judgement, and it's the first thing I looked for when I hired three designers at Hearti Lab. In the interview I'd ask them to walk me through one decision they'd change now. Good designers usually get more interested at that question, and weaker ones get defensive.",
+  "sample": "All outcomes and no decisions, or only final screens. Polished screens tell me they can make things look good. They don't tell me how they think. I want to see the mess: the options they dropped and why. That's judgement, and it's the first thing I looked for when I hired two designers at Hearti Lab. In the interview I'd ask them to walk me through one decision they'd change now. Good designers usually get more interested at that question, and weaker ones get defensive.",
   "note_en": "It links the red flag back to judgement, your first hiring criterion, so the answer feels consistent.",
   "note_vi": "Câu trả lời nối dấu hiệu xấu với khả năng phán đoán, tiêu chí tuyển dụng đầu tiên của bạn, nên nghe nhất quán."
  },
@@ -460,7 +460,7 @@
   "note_vi": "Câu trả lời thành thật là chưa hiểu thị trường đó và không bịa ra nhận định để tỏ ra thông minh."
  },
  "cards.58.follow_ups.0": {
-  "sample": "Explain the why every time the direction changes. And make sure some of their work ships regardless. At Hearti Lab the direction moved monthly, and I was leading a team of three. I tried to keep the lasting work, like the design system and core flows, moving while the bets changed. We still shipped three products and fifteen projects in two years. Nothing kills morale like years of unshipped work. At Qualgo I'd split the plan the same way, so every designer has something going live.",
+  "sample": "Explain the why every time the direction changes. And make sure some of their work ships regardless. At Hearti Lab the direction moved monthly, and I was leading a team of two. I tried to keep the lasting work, like the design system and core flows, moving while the bets changed. We still shipped three products and fifteen projects in two years. Nothing kills morale like years of unshipped work. At Qualgo I'd split the plan the same way, so every designer has something going live.",
   "note_en": "It ties morale to a practical habit from the main answer, so it doesn't sound like a slogan.",
   "note_vi": "Câu trả lời gắn tinh thần đội với một thói quen cụ thể từ câu trả lời chính, nên không nghe như khẩu hiệu."
  },
@@ -470,8 +470,8 @@
   "note_vi": "Câu trả lời chia công bằng một cách trung thực, đúng cái bẫy mà câu hỏi này kiểm tra, và để trống chỗ tương đối hay tuyệt đối cho bạn xác nhận."
  },
  "cards.60.follow_ups.0": {
-  "sample": "I've hired and led a team of three at Hearti Lab. I recruited the design team from scratch, and we shipped three products and fifteen projects in two years. But I haven't managed a large team's performance cycle. That's something I'd be learning here. I'd ask your HR partner to walk me through the process early. I'd also use what I've learned from mentoring over fifty designers on ADPList. I'd rather tell you now than have you find out in month three.",
-  "note_en": "It names a real gap for a Lead role and gives a plan, without making the team of three sound bigger.",
+  "sample": "I've hired and led a team of two at Hearti Lab. I recruited the design team from scratch, and we shipped three products and fifteen projects in two years. But I haven't managed a large team's performance cycle. That's something I'd be learning here. I'd ask your HR partner to walk me through the process early. I'd also use what I've learned from mentoring over fifty designers on ADPList. I'd rather tell you now than have you find out in month three.",
+  "note_en": "It names a real gap for a Lead role and gives a plan, without making the team of two sound bigger.",
   "note_vi": "Câu trả lời nói ra một khoảng trống thật cho vai trò Lead kèm kế hoạch, mà không thổi phồng đội ba người."
  },
  "cards.61.follow_ups.0": {
